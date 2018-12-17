@@ -4,4 +4,4 @@ Superconductivity can occur at extremely low temperatures or extremely high temp
 
 This model performed the best using ridge regression to introduce bias on the model because of the numerous features involved, and to prevent overfitting.
 
-The final result of the exploration resulted in a 73.68% accuracy score for predicting critical temperatures.
+The final result of the exploration resulted in a 93% accuracy score for predicting critical temperatures.
